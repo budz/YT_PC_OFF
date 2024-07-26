@@ -1,3 +1,25 @@
+🎬🛑 Introducing YT PC OFF! 🛑🎬
+
+Ever fallen asleep while watching YouTube and wished your PC could just shut itself down? Now it can! Meet YT PC OFF, the ultimate tool that monitors your YouTube video playback and powers down your computer automatically when the video ends.
+
+✨ Features:
+
+Seamlessly integrates with your browser
+Monitors YouTube video playback in real-time
+Automatically shuts down your PC when the video finishes
+Perfect for late-night binge-watching sessions
+
+
+🔧 How to Use:
+
+Set up our simple Python server.
+Add our custom bookmarklet to your browser.
+Enjoy your videos with peace of mind knowing your PC will turn off when you're done!
+🚀 Get started now on GitHub: YT PC OFF
+
+💤 Say goodbye to leaving your PC on overnight. Try YT PC OFF today and let your computer take care of itself!
+
+
 """
 YT_PC_OFF: Automatic PC Shutdown on YouTube Video Completion
 
